@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb484f7-c012-4b6f-b297-5cd8c50780b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/btn_recharge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/btn_withdraw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_opposite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_positive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cash_recharge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_baoleba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_changlegou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_fenxiangbao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_register.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_card.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_consume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_finance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_msg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_recharge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_safe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_verify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_wallet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_withdraw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/person_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/person_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shop_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shop_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/voucher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/voucher_recharge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fxb-user-vue.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.c3e7914879dfe76b4b901e7af37d62e8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.c3e7914879dfe76b4b901e7af37d62e8.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.af91235628cd993e012a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.af91235628cd993e012a.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.999bce817614c3b4361d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.999bce817614c3b4361d.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/newRem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/rem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.bc853f1aae8e1ebc56b4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.bc853f1aae8e1ebc56b4.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/style/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -134,12 +87,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512031646706</updated>
-      <workItem from="1512031647887" duration="175000" />
+      <workItem from="1512031647887" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="feat:创建项目">
+      <created>1512031845893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512031845893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175000" />
+    <option name="totallyTimeSpent" value="717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -171,6 +132,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:创建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:创建项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
