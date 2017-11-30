@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb484f7-c012-4b6f-b297-5cd8c50780b7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/btn_recharge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/btn_withdraw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_hand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_opposite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/card_positive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cash_recharge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_baoleba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_changlegou.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_fenxiangbao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_consume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_finance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_order.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_recharge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_verify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_wallet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/per_withdraw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/person_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/person_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shop_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shop_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/voucher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/voucher_recharge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fxb-user-vue.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.c3e7914879dfe76b4b901e7af37d62e8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.c3e7914879dfe76b4b901e7af37d62e8.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.af91235628cd993e012a.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.af91235628cd993e012a.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.999bce817614c3b4361d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.999bce817614c3b4361d.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/newRem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/rem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.bc853f1aae8e1ebc56b4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.bc853f1aae8e1ebc56b4.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/style/style.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fxb-user-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fxb-user-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb484f7-c012-4b6f-b297-5cd8c50780b7" name="Default" comment="" />
+      <created>1512031646706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512031646706</updated>
+      <workItem from="1512031647887" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09325606" sideWeight="0.8061674" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1284585" sideWeight="0.5043057" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17814855" sideWeight="0.556461" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11691023" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16938998" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1027668" sideWeight="0.4956943" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18945102" sideWeight="0.1938326" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46837944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
