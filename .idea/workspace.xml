@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb484f7-c012-4b6f-b297-5cd8c50780b7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.bc6bff75dbc36c0e8071.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.bc6bff75dbc36c0e8071.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.af5934c6fec35744f3c7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.af5934c6fec35744f3c7.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,6 +54,17 @@
               <item name="fxb-user-vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="fxb-user-vue" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fxb-user-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fxb-user-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fxb-user-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fxb-user-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -87,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512031646706</updated>
-      <workItem from="1512031647887" duration="717000" />
+      <workItem from="1512031647887" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="feat:创建项目">
       <created>1512031845893</created>
@@ -96,16 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1512031845893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat:更改打包配置">
+      <created>1512032382284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512032382284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="717000" />
+    <option name="totallyTimeSpent" value="972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09325606" sideWeight="0.8061674" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19283456" sideWeight="0.8061674" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861477" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1284585" sideWeight="0.5043057" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -135,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:创建项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:创建项目" />
+    <MESSAGE value="feat:更改打包配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:更改打包配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
